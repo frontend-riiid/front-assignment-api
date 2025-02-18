@@ -16,7 +16,7 @@ export const assignments: Assignment[] = [
   {
     id: 849,
     subtitle: "엄청 느리다! 와이파이 이야기하기",
-    startDatetime: "2023-03-07T19:00:00+09:00",
+    startDatetime: "2025-02-07T19:00:00+09:00",
     content: [
       {
         tts: "https://public.realclass.co.kr/reallive/resources/1043/assignment/audio_0_Is_whyf_i_working__I_can_t_get_a_signal_-12e886.wav",
@@ -65,7 +65,7 @@ export const assignments: Assignment[] = [
   {
     id: 850,
     subtitle: "거기 세일한대! 온라인 쇼핑 이야기하기",
-    startDatetime: "2023-03-09T19:00:00+09:00",
+    startDatetime: "2025-02-09T19:00:00+09:00",
     content: [
       {
         tts: "https://public.realclass.co.kr/reallive/resources/1043/assignment/audio_0_Where_do_you_go_shopping_-2d285d.wav",
@@ -118,7 +118,7 @@ export const assignments: Assignment[] = [
   {
     id: 864,
     subtitle: "뭐 시킬까? 배달 음식 이야기하기",
-    startDatetime: "2023-03-14T19:00:00+09:00",
+    startDatetime: "2025-02-14T19:00:00+09:00",
     content: [
       {
         tts: "https://public.realclass.co.kr/reallive/resources/1043/assignment/audio_0_Chinese_food_always_hits_the_spot_-7d4c83.wav",
@@ -166,7 +166,7 @@ export const assignments: Assignment[] = [
   {
     id: 865,
     subtitle: "이직하고 싶다! 직업 이야기하기",
-    startDatetime: "2023-03-16T19:00:00+09:00",
+    startDatetime: "2025-02-16T19:00:00+09:00",
     content: [
       {
         tts: "https://public.realclass.co.kr/reallive/resources/1043/assignment/audio_7_I_m_in_charge_of_marketing_strategy_-2c9147.wav",
