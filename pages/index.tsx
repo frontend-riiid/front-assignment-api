@@ -8,10 +8,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>퀄슨 프론트엔드 사전과제</title>
+        <title>Riiid Front-end 사전과제</title>
       </Head>
       <main className={inter.className}>
-        <h1>퀄슨 프론트엔드 사전과제</h1>
+        <h1>Riiid Front-end 사전과제</h1>
         <a href="https://riiid.notion.site/Front-end-1535bc5f63078068af80dae46bd98b1a?pvs=4">
           <h2>과제 링크</h2>
         </a>
